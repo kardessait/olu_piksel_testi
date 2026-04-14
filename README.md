@@ -8,6 +8,11 @@ Tıklayıp Kaydet: Eğer bir ölü piksel görürsen üzerine tıkla; JavaScript
 
 Backend Kaydı: Sunucu (Python), gelen bu hataları terminale veya bir dosyaya rapor olarak basabiliyor.
 
+Çalıştırmadan önce bilgisayarda olması gerekn bir yazılım var.
+Bu yazılım(flask) bunu kurmak için aşağıda belirtiğim kodu terminalde çalıştırınız.
+"pip install flask"
+"pip3 install flask" bu mac için bir komut.
+
 Nasıl Çalıştırılır?
 
 Bilgisayarına Python yüklü olduğundan emin ol.
